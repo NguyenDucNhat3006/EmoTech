@@ -6,8 +6,8 @@
 EmoTech hướng đến việc biến công nghệ thành **công cụ thể hiện cảm xúc, kỷ niệm và sự tri ân**, giúp con người gửi **gắm yêu thương và tạo dấu ấn cá nhân** trong từng sản phẩm.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img style="width: 100px; height: 100px;" src="images/logo.png" alt="logo 1" />
-  <img style="width: 100px; height: 100px;" src="images/demo.png" alt="logo 2" />
+  <img style="width: 100px; height: 100px;" src="images/logo.png" alt="logo" />
+  <img style="width: 100px; height: 100px;" src="images/demo.png" alt="demo" />
 </div>
 
 ## 🎯 Mục tiêu dự án
